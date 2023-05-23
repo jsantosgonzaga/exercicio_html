@@ -1,0 +1,32 @@
+.conteudo {
+    width: 850px;
+    margin: 10px;
+    float: right ;
+}
+
+    h2{
+    background: rgb(128, 128, 128);
+color: orange;
+}
+
+h1{
+    background: rgb(128, 128, 128);
+color: orange;
+}
+
+.conteudo2 {clear: both;
+}
+.conteudo3 {
+    width: 850px;
+    /* height: px;*/
+     margin: 10px;
+     float: right ;
+
+}
+/*.conteudo4 {
+    width: 600px;
+     height: 30px;
+     margin: 10px;
+     float: right ;
+
+}
